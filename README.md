@@ -1,1 +1,4 @@
 # Neuron
+Neuron reconstruction is crucial for the study of neuronal morphology. However, due to the uneven distribution of difficulty in neuronal data, high-quality large-scale neuron reconstruction is limited. This project solves the problem of adapting data to personnel and reconstruction methods by grading the difficulty of data, and addresses the limitations of reconstruction quality and scale caused by uneven distribution of data difficulty.This project provides precise data cleaning code and data analysis code for all graphs.
+
+Data and code availability are publicly available as of the date of publication. If you use this dataset for your research, please cite our paper. Any additional information required to reanalyze the data reported in this paper is available from the lead contact upon request.
